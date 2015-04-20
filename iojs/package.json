@@ -1,0 +1,15 @@
+{
+  "name": "prueba",
+  "version": "0.0.0",
+  "description": "prueba para mirar si sirve 17/04/2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandok",
+  "license": "GNU",
+  "dependencies": {
+    "socket.io": "~1.3.5",
+    "express": "~4.12.3"
+  }
+}
